@@ -1,0 +1,22 @@
+{
+  "name": "nurseflat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xfunnelbuilder/Nurseflat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xfunnelbuilder/Nurseflat/issues"
+  },
+  "homepage": "https://github.com/Xfunnelbuilder/Nurseflat#readme",
+  "dependencies": {
+    "stripe": "^12.1.1"
+  }
+}
